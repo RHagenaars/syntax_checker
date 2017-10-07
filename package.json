@@ -1,0 +1,23 @@
+{
+  "name": "syntax_checker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RHagenaars/syntax_checker.git"
+  },
+  "author": "Ramon Hagenaars <ramon.hagenaars@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RHagenaars/syntax_checker/issues"
+  },
+  "homepage": "https://github.com/RHagenaars/syntax_checker#readme",
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "3.5.1"
+  }
+}
